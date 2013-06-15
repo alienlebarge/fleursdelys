@@ -1,3 +1,6 @@
 [submodule "assets/bootstrap"]
 	path = assets/bootstrap
 	url = https://alienlebarge@github.com/twitter/bootstrap.git
+[submodule "assets/holder"]
+	path = assets/holder
+	url = https://alienlebarge@github.com/imsky/holder.git
