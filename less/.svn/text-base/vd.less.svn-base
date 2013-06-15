@@ -1,0 +1,102 @@
+//////////////////////////////////////////////////
+// Please follow these recomendations
+// https://github.com/mdo/code-guide#css
+//////////////////////////////////////////////////
+
+
+
+
+
+// UTILITIES
+// --------------------
+
+// Typography
+// --------------------
+.small { font-size: 85%; }
+
+
+// STYLE
+// --------------------
+
+// body padding for navbar
+body {
+  padding-top: 100px; // 40px + logo height
+
+  // tablet & phone
+  @media (max-width: 979px){
+    padding-top: 0px;
+  }
+}
+
+// Header positionning
+body { 
+  div.container {
+    &:first-of-type > .row {
+      
+      position: fixed;
+      top: 0;
+
+      background-color: @bodyBackground;
+
+    }
+  }
+  
+  // navbar padding top (40px + logo's height)
+  div.container + .navbar-fixed-top {
+    
+    top: 50px;
+  
+  }
+}
+
+// Logo
+// -------------------
+
+// Logo layout
+div.logo {
+  background-color: @linkColor;
+
+  p {
+    
+    margin: 0 0 0 17px;
+    padding: 0 0 0 5px;
+    
+    font-size: @baseFontSize * 1.75;
+    font-family: @headingsFontFamily;
+    font-weight: @headingsFontWeight;
+    line-height: @baseLineHeight * 1.25;
+    text-transform: uppercase;
+    
+    background-color: @bodyBackground;
+    
+    // create a line break with the <span> tag
+    span {
+      display: block;
+      clear: both;
+    }
+  }
+  
+  // The logo keep is black color
+  a {
+    color: @textColor;
+    &:hover {text-decoration: none;}
+  }
+}
+
+// Images
+// -------------------
+
+// Caption write in small
+figure figcaption {
+  .muted;
+  .small;
+}
+
+// fine tunning the thumbnails
+.thumbnails {
+  figure            {margin: auto 0;}         // The figure tag has no margin
+  a.thumbnail:hover {text-decoration: none;}  // Caption are not underlined when linked
+}
+
+// Figure in article
+figure {margin: auto 0;}    // Images in article without margin
