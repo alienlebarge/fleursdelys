@@ -6305,16 +6305,5 @@ a.badge:focus {
   }
 }
 .small {
-  font-size: 85%;
+  font-size: 10.5px;
 }
-/*
-// body padding for navbar
-body {
-  padding-top: 100px; // 40px + logo height
-
-  // tablet & phone
-  @media (max-width: 979px){
-    padding-top: 0px;
-  }
-}
-*/
