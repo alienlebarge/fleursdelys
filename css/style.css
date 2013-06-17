@@ -6353,3 +6353,10 @@ a.badge:focus {
     border-color: rgba(0, 0, 0, 0.15);
   }
 }
+footer {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-top: 50px;
+  border-top: 1px solid #999999;
+  background-color: #eeeeee;
+}

@@ -1,5 +1,13 @@
+// email spam protection
 $(function() {
     $("body").emailSpamProtection("email");
+});
+
+// back to top of the page
+//delegate binding to only links that have the `.top` class
+$(document).delegate('a.top', 'click', function () {
+    $('html, body').stop().animate({ scrollTop : 0 }, 500);
+    return false;
 });
 
 // Tweeter like
