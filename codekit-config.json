@@ -92,24 +92,15 @@
       "initialSize" : 209039,
       "fileType" : 8192
     },
-    "\/assets\/bootstrap\/docs\/build\/node_modules\/hogan.js\/web\/stylesheets\/skeleton.css" : {
+    "\/assets\/bootstrap\/docs\/build\/node_modules\/hogan.js\/web\/builds\/1.0.5\/hogan-1.0.5.common.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/build\/node_modules\/hogan.js\/web\/stylesheets\/skeleton.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
-    "\/assets\/bootstrap\/js\/tests\/unit\/bootstrap-alert.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/bootstrap\/js\/tests\/unit\/bootstrap-alert.js",
+      "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/build\/node_modules\/hogan.js\/web\/builds\/1.0.5\/hogan-1.0.5.common.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/assets\/bootstrap\/js\/tests\/unit\/bootstrap-alert-ck.js",
+      "outputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/build\/node_modules\/hogan.js\/web\/builds\/1.0.5\/hogan-1.0.5.common-ck.js",
       "fileType" : 64
     },
     "\/assets\/bootstrap\/docs\/assets\/img\/example-sites\/kippt.png" : {
@@ -122,6 +113,17 @@
       "outputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/img\/example-sites\/kippt.png",
       "initialSize" : 48259,
       "fileType" : 8192
+    },
+    "\/assets\/bootstrap\/js\/tests\/unit\/bootstrap-alert.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/bootstrap\/js\/tests\/unit\/bootstrap-alert.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/assets\/bootstrap\/js\/tests\/unit\/bootstrap-alert-ck.js",
+      "fileType" : 64
     },
     "\/assets\/bootstrap\/docs\/assets\/img\/examples\/browser-icon-safari.png" : {
       "ignoreWasSetByUser" : 0,
@@ -145,16 +147,14 @@
       "initialSize" : 6450,
       "fileType" : 8192
     },
-    "\/assets\/bootstrap\/docs\/build\/node_modules\/hogan.js\/web\/builds\/1.0.5\/hogan-1.0.5.common.js" : {
+    "\/assets\/bootstrap\/docs\/build\/node_modules\/hogan.js\/web\/stylesheets\/skeleton.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/build\/node_modules\/hogan.js\/web\/builds\/1.0.5\/hogan-1.0.5.common.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/build\/node_modules\/hogan.js\/web\/builds\/1.0.5\/hogan-1.0.5.common-ck.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/build\/node_modules\/hogan.js\/web\/stylesheets\/skeleton.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/assets\/bootstrap\/less\/media.less" : {
       "ignoreWasSetByUser" : 0,
@@ -409,15 +409,6 @@
       "outputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/build\/node_modules\/hogan.js\/web\/builds\/1.0.5\/hogan-1.0.5.min.mustache-ck.js",
       "fileType" : 64
     },
-    "\/assets\/bootstrap\/docs\/base-css.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/base-css.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/assets\/bootstrap\/docs\/assets\/js\/bootstrap-tab.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -428,6 +419,15 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/js\/bootstrap-tab-ck.js",
       "fileType" : 64
+    },
+    "\/assets\/bootstrap\/docs\/base-css.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/base-css.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/assets\/bootstrap\/js\/bootstrap-collapse.js" : {
       "ignoreWasSetByUser" : 0,
@@ -583,26 +583,6 @@
       "outputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/build\/node_modules\/hogan.js\/web\/builds\/1.0.5\/hogan-1.0.5.min.common-ck.js",
       "fileType" : 64
     },
-    "\/css\/style.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/style.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
-    "\/assets\/bootstrap\/js\/bootstrap-popover.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/bootstrap\/js\/bootstrap-popover.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/assets\/bootstrap\/js\/bootstrap-popover-ck.js",
-      "fileType" : 64
-    },
     "\/assets\/bootstrap\/less\/hero-unit.less" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -615,6 +595,26 @@
       "strictImports" : 0,
       "fileType" : 1,
       "debugStyle" : 0
+    },
+    "\/css\/style.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/css\/style.css",
+      "outputAbbreviatedPath" : "\/No Output Path",
+      "fileType" : 16
+    },
+    "\/assets\/bootstrap\/js\/bootstrap-popover.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/bootstrap\/js\/bootstrap-popover.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/assets\/bootstrap\/js\/bootstrap-popover-ck.js",
+      "fileType" : 64
     },
     "\/assets\/bootstrap\/less\/code.less" : {
       "ignoreWasSetByUser" : 0,
@@ -653,15 +653,6 @@
       "outputAbbreviatedPath" : "\/assets\/bootstrap\/js\/bootstrap-affix-ck.js",
       "fileType" : 64
     },
-    "\/assets\/bootstrap\/docs\/build\/node_modules\/hogan.js\/test\/index.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/build\/node_modules\/hogan.js\/test\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/assets\/bootstrap\/docs\/build\/node_modules\/hogan.js\/lib\/compiler.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -672,6 +663,15 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/build\/node_modules\/hogan.js\/lib\/compiler-ck.js",
       "fileType" : 64
+    },
+    "\/assets\/bootstrap\/docs\/build\/node_modules\/hogan.js\/test\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/build\/node_modules\/hogan.js\/test\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/assets\/bootstrap\/less\/alerts.less" : {
       "ignoreWasSetByUser" : 0,
@@ -829,6 +829,15 @@
       "outputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/build\/node_modules\/hogan.js\/web\/builds\/1.0.5\/hogan-1.0.5.mustache-ck.js",
       "fileType" : 64
     },
+    "\/assets\/bootstrap\/docs\/getting-started.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/getting-started.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/assets\/bootstrap\/less\/sprites.less" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -841,15 +850,6 @@
       "strictImports" : 0,
       "fileType" : 1,
       "debugStyle" : 0
-    },
-    "\/assets\/bootstrap\/docs\/getting-started.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/getting-started.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/assets\/bootstrap\/docs\/build\/node_modules\/hogan.js\/web\/images\/stripes.png" : {
       "ignoreWasSetByUser" : 0,
@@ -985,15 +985,6 @@
       "outputAbbreviatedPath" : "\/assets\/bootstrap\/js\/bootstrap-alert-ck.js",
       "fileType" : 64
     },
-    "\/assets\/bootstrap\/docs\/examples\/carousel.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/examples\/carousel.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/assets\/bootstrap\/docs\/assets\/img\/bootstrap-mdo-sfmoma-03.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1004,6 +995,15 @@
       "outputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/img\/bootstrap-mdo-sfmoma-03.jpg",
       "initialSize" : 49063,
       "fileType" : 4096
+    },
+    "\/assets\/bootstrap\/docs\/examples\/carousel.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/examples\/carousel.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/assets\/bootstrap\/docs\/assets\/js\/bootstrap.min.js" : {
       "ignoreWasSetByUser" : 0,
@@ -1210,17 +1210,6 @@
       "outputAbbreviatedPath" : "\/assets\/bootstrap\/js\/tests\/unit\/bootstrap-collapse-ck.js",
       "fileType" : 64
     },
-    "\/assets\/bootstrap\/docs\/build\/node_modules\/hogan.js\/web\/1.0.0\/hogan.min.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/build\/node_modules\/hogan.js\/web\/1.0.0\/hogan.min.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/build\/node_modules\/hogan.js\/web\/1.0.0\/hogan.min-ck.js",
-      "fileType" : 64
-    },
     "\/assets\/bootstrap\/js\/bootstrap-button.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1230,6 +1219,17 @@
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/assets\/bootstrap\/js\/bootstrap-button-ck.js",
+      "fileType" : 64
+    },
+    "\/assets\/bootstrap\/docs\/build\/node_modules\/hogan.js\/web\/1.0.0\/hogan.min.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/build\/node_modules\/hogan.js\/web\/1.0.0\/hogan.min.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/build\/node_modules\/hogan.js\/web\/1.0.0\/hogan.min-ck.js",
       "fileType" : 64
     },
     "\/assets\/bootstrap\/less\/mixins.less" : {
@@ -1291,17 +1291,6 @@
       "outputAbbreviatedPath" : "\/assets\/bootstrap\/js\/tests\/unit\/bootstrap-carousel-ck.js",
       "fileType" : 64
     },
-    "\/assets\/bootstrap\/docs\/assets\/js\/bootstrap-button.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/js\/bootstrap-button.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/js\/bootstrap-button-ck.js",
-      "fileType" : 64
-    },
     "\/assets\/bootstrap\/docs\/assets\/img\/example-sites\/fleetio.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1324,6 +1313,26 @@
       "outputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/build\/node_modules\/hogan.js\/test\/mustache-ck.js",
       "fileType" : 64
     },
+    "\/assets\/bootstrap\/docs\/assets\/js\/bootstrap-button.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/js\/bootstrap-button.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/js\/bootstrap-button-ck.js",
+      "fileType" : 64
+    },
+    "\/assets\/bootstrap\/less\/tests\/css-tests.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/bootstrap\/less\/tests\/css-tests.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/assets\/bootstrap\/docs\/assets\/img\/examples\/bootstrap-example-carousel.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1334,15 +1343,6 @@
       "outputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/img\/examples\/bootstrap-example-carousel.png",
       "initialSize" : 339980,
       "fileType" : 8192
-    },
-    "\/assets\/bootstrap\/less\/tests\/css-tests.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/bootstrap\/less\/tests\/css-tests.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/assets\/bootstrap\/js\/tests\/unit\/bootstrap-modal.js" : {
       "ignoreWasSetByUser" : 0,
@@ -1392,16 +1392,18 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
-    "\/assets\/bootstrap\/docs\/assets\/img\/examples\/browser-icon-firefox.png" : {
+    "\/assets\/bootstrap\/less\/breadcrumbs.less" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/img\/examples\/browser-icon-firefox.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/img\/examples\/browser-icon-firefox.png",
-      "initialSize" : 175994,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/assets\/bootstrap\/less\/breadcrumbs.less",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/assets\/bootstrap\/css\/breadcrumbs.css",
+      "strictImports" : 0,
+      "fileType" : 1,
+      "debugStyle" : 0
     },
     "\/assets\/bootstrap\/less\/responsive-1200px-min.less" : {
       "ignoreWasSetByUser" : 0,
@@ -1427,19 +1429,6 @@
       "initialSize" : 4594,
       "fileType" : 8192
     },
-    "\/assets\/bootstrap\/less\/breadcrumbs.less" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/bootstrap\/less\/breadcrumbs.less",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/bootstrap\/css\/breadcrumbs.css",
-      "strictImports" : 0,
-      "fileType" : 1,
-      "debugStyle" : 0
-    },
     "\/assets\/bootstrap\/docs\/build\/node_modules\/hogan.js\/web\/images\/small-hogan-icon.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1461,6 +1450,17 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/js\/bootstrap-transition-ck.js",
       "fileType" : 64
+    },
+    "\/assets\/bootstrap\/docs\/assets\/img\/examples\/browser-icon-firefox.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/img\/examples\/browser-icon-firefox.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/img\/examples\/browser-icon-firefox.png",
+      "initialSize" : 175994,
+      "fileType" : 8192
     },
     "\/assets\/bootstrap\/js\/tests\/unit\/bootstrap-dropdown.js" : {
       "ignoreWasSetByUser" : 0,
@@ -1556,7 +1556,7 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
+      "outputAbbreviatedPath" : "\/No Output Path",
       "fileType" : 2048
     },
     "\/assets\/bootstrap\/less\/reset.less" : {
@@ -1658,6 +1658,15 @@
       "outputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/js\/html5shiv-ck.js",
       "fileType" : 64
     },
+    "\/assets\/bootstrap\/docs\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/assets\/bootstrap\/less\/labels-badges.less" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -1680,15 +1689,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/assets\/bootstrap\/docs\/index.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/assets\/bootstrap\/js\/tests\/unit\/bootstrap-tooltip.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1709,14 +1709,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/assets\/bootstrap\/less\/tests\/navbar-fixed-top.html" : {
+    "\/assets\/bootstrap\/docs\/assets\/js\/bootstrap.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/bootstrap\/less\/tests\/navbar-fixed-top.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/js\/bootstrap.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/js\/bootstrap-ck.js",
+      "fileType" : 64
     },
     "\/assets\/bootstrap\/js\/tests\/unit\/bootstrap-transition.js" : {
       "ignoreWasSetByUser" : 0,
@@ -1764,16 +1766,14 @@
       "outputAbbreviatedPath" : "\/assets\/holder\/holder-ck.js",
       "fileType" : 64
     },
-    "\/assets\/bootstrap\/docs\/assets\/js\/bootstrap.js" : {
+    "\/assets\/bootstrap\/less\/tests\/navbar-fixed-top.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/js\/bootstrap.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/js\/bootstrap-ck.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "\/assets\/bootstrap\/less\/tests\/navbar-fixed-top.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/assets\/bootstrap\/js\/tests\/server.js" : {
       "ignoreWasSetByUser" : 0,
@@ -1834,6 +1834,19 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
+    "\/assets\/bootstrap\/less\/component-animations.less" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/bootstrap\/less\/component-animations.less",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/assets\/bootstrap\/css\/component-animations.css",
+      "strictImports" : 0,
+      "fileType" : 1,
+      "debugStyle" : 0
+    },
     "\/assets\/bootstrap\/docs\/build\/node_modules\/hogan.js\/tools\/release.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1858,28 +1871,6 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
-    "\/assets\/bootstrap\/docs\/assets\/js\/bootstrap-affix.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/js\/bootstrap-affix.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/js\/bootstrap-affix-ck.js",
-      "fileType" : 64
-    },
-    "\/assets\/bootstrap\/docs\/assets\/img\/examples\/bootstrap-example-signin.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/img\/examples\/bootstrap-example-signin.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/img\/examples\/bootstrap-example-signin.png",
-      "initialSize" : 22037,
-      "fileType" : 8192
-    },
     "\/assets\/bootstrap\/img\/glyphicons-halflings-white.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1890,6 +1881,17 @@
       "outputAbbreviatedPath" : "\/assets\/bootstrap\/img\/glyphicons-halflings-white.png",
       "initialSize" : 8777,
       "fileType" : 8192
+    },
+    "\/assets\/bootstrap\/docs\/assets\/js\/bootstrap-affix.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/js\/bootstrap-affix.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/js\/bootstrap-affix-ck.js",
+      "fileType" : 64
     },
     "\/assets\/bootstrap\/docs\/build\/node_modules\/hogan.js\/web\/builds\/1.0.0\/hogan.min.js" : {
       "ignoreWasSetByUser" : 0,
@@ -1902,18 +1904,16 @@
       "outputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/build\/node_modules\/hogan.js\/web\/builds\/1.0.0\/hogan.min-ck.js",
       "fileType" : 64
     },
-    "\/assets\/bootstrap\/less\/component-animations.less" : {
+    "\/assets\/bootstrap\/docs\/assets\/img\/examples\/bootstrap-example-signin.png" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/bootstrap\/less\/component-animations.less",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/bootstrap\/css\/component-animations.css",
-      "strictImports" : 0,
-      "fileType" : 1,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/img\/examples\/bootstrap-example-signin.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/img\/examples\/bootstrap-example-signin.png",
+      "initialSize" : 22037,
+      "fileType" : 8192
     },
     "\/kit\/_footer.js.kit" : {
       "ignoreWasSetByUser" : 0,
@@ -1935,16 +1935,16 @@
       "initialSize" : 7258,
       "fileType" : 8192
     },
-    "\/assets\/bootstrap\/js\/bootstrap-dropdown.js" : {
+    "\/assets\/bootstrap\/docs\/assets\/img\/example-sites\/breakingnews.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/bootstrap\/js\/bootstrap-dropdown.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/assets\/bootstrap\/js\/bootstrap-dropdown-ck.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/img\/example-sites\/breakingnews.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/img\/example-sites\/breakingnews.png",
+      "initialSize" : 72725,
+      "fileType" : 8192
     },
     "\/assets\/jquery-plugin-email-spam-protection\/jquery.emailSpamProtection.1.0.js" : {
       "ignoreWasSetByUser" : 0,
@@ -1957,16 +1957,16 @@
       "outputAbbreviatedPath" : "\/assets\/jquery-plugin-email-spam-protection\/jquery.emailSpamProtection.1.0-ck.js",
       "fileType" : 64
     },
-    "\/assets\/bootstrap\/docs\/assets\/img\/example-sites\/breakingnews.png" : {
+    "\/assets\/bootstrap\/js\/bootstrap-dropdown.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/img\/example-sites\/breakingnews.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/img\/example-sites\/breakingnews.png",
-      "initialSize" : 72725,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/assets\/bootstrap\/js\/bootstrap-dropdown.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/assets\/bootstrap\/js\/bootstrap-dropdown-ck.js",
+      "fileType" : 64
     },
     "\/assets\/bootstrap\/docs\/assets\/css\/bootstrap-responsive.css" : {
       "ignoreWasSetByUser" : 0,
@@ -1986,17 +1986,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/assets\/bootstrap\/docs\/assets\/img\/examples\/slide-01.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/img\/examples\/slide-01.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/img\/examples\/slide-01.jpg",
-      "initialSize" : 83303,
-      "fileType" : 4096
-    },
     "\/assets\/bootstrap\/less\/responsive-768px-979px.less" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -2009,6 +1998,17 @@
       "strictImports" : 0,
       "fileType" : 1,
       "debugStyle" : 0
+    },
+    "\/assets\/bootstrap\/docs\/assets\/img\/examples\/slide-01.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/img\/examples\/slide-01.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/img\/examples\/slide-01.jpg",
+      "initialSize" : 83303,
+      "fileType" : 4096
     },
     "\/assets\/bootstrap\/js\/bootstrap-modal.js" : {
       "ignoreWasSetByUser" : 0,
@@ -2041,17 +2041,6 @@
       "outputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/js\/bootstrap-modal-ck.js",
       "fileType" : 64
     },
-    "\/assets\/bootstrap\/js\/bootstrap-carousel.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/bootstrap\/js\/bootstrap-carousel.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/assets\/bootstrap\/js\/bootstrap-carousel-ck.js",
-      "fileType" : 64
-    },
     "\/less\/custom-variables.less" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -2064,6 +2053,26 @@
       "strictImports" : 0,
       "fileType" : 1,
       "debugStyle" : 0
+    },
+    "\/assets\/bootstrap\/js\/bootstrap-carousel.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/bootstrap\/js\/bootstrap-carousel.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/assets\/bootstrap\/js\/bootstrap-carousel-ck.js",
+      "fileType" : 64
+    },
+    "\/assets\/bootstrap\/docs\/assets\/css\/bootstrap.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/css\/bootstrap.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/assets\/bootstrap\/less\/carousel.less" : {
       "ignoreWasSetByUser" : 0,
@@ -2078,25 +2087,14 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
-    "\/assets\/bootstrap\/docs\/assets\/css\/bootstrap.css" : {
+    "\/assets\/bootstrap\/less\/tests\/forms.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/css\/bootstrap.css",
+      "inputAbbreviatedPath" : "\/assets\/bootstrap\/less\/tests\/forms.html",
       "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
-    "\/assets\/bootstrap\/js\/bootstrap-tab.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/bootstrap\/js\/bootstrap-tab.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/assets\/bootstrap\/js\/bootstrap-tab-ck.js",
-      "fileType" : 64
+      "fileType" : 2048
     },
     "\/assets\/bootstrap\/docs\/build\/node_modules\/hogan.js\/web\/1.0.0\/hogan.js" : {
       "ignoreWasSetByUser" : 0,
@@ -2109,14 +2107,16 @@
       "outputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/build\/node_modules\/hogan.js\/web\/1.0.0\/hogan-ck.js",
       "fileType" : 64
     },
-    "\/assets\/bootstrap\/less\/tests\/forms.html" : {
+    "\/assets\/bootstrap\/js\/bootstrap-tab.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/bootstrap\/less\/tests\/forms.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/assets\/bootstrap\/js\/bootstrap-tab.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/assets\/bootstrap\/js\/bootstrap-tab-ck.js",
+      "fileType" : 64
     },
     "\/assets\/bootstrap\/docs\/assets\/ico\/apple-touch-icon-144-precomposed.png" : {
       "ignoreWasSetByUser" : 0,
@@ -2140,15 +2140,15 @@
       "initialSize" : 2711,
       "fileType" : 8192
     },
-    "\/assets\/bootstrap\/js\/bootstrap-scrollspy.js" : {
+    "\/assets\/bootstrap\/docs\/build\/index.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/bootstrap\/js\/bootstrap-scrollspy.js",
+      "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/build\/index.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/assets\/bootstrap\/js\/bootstrap-scrollspy-ck.js",
+      "outputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/build\/index-ck.js",
       "fileType" : 64
     },
     "\/assets\/bootstrap\/js\/bootstrap-typeahead.js" : {
@@ -2162,16 +2162,27 @@
       "outputAbbreviatedPath" : "\/assets\/bootstrap\/js\/bootstrap-typeahead-ck.js",
       "fileType" : 64
     },
-    "\/assets\/bootstrap\/docs\/build\/index.js" : {
+    "\/assets\/bootstrap\/docs\/assets\/img\/examples\/slide-03.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/build\/index.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/build\/index-ck.js",
-      "fileType" : 64
+      "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/img\/examples\/slide-03.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/img\/examples\/slide-03.jpg",
+      "initialSize" : 137378,
+      "fileType" : 4096
+    },
+    "\/assets\/bootstrap\/docs\/assets\/img\/bootstrap-docs-readme.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/img\/bootstrap-docs-readme.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/img\/bootstrap-docs-readme.png",
+      "initialSize" : 30612,
+      "fileType" : 8192
     },
     "\/assets\/bootstrap\/less\/forms.less" : {
       "ignoreWasSetByUser" : 0,
@@ -2197,28 +2208,6 @@
       "outputAbbreviatedPath" : "\/assets\/bootstrap\/js\/tests\/unit\/bootstrap-affix-ck.js",
       "fileType" : 64
     },
-    "\/assets\/bootstrap\/docs\/assets\/img\/examples\/slide-03.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/img\/examples\/slide-03.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/img\/examples\/slide-03.jpg",
-      "initialSize" : 137378,
-      "fileType" : 4096
-    },
-    "\/assets\/bootstrap\/docs\/assets\/img\/bootstrap-docs-readme.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/img\/bootstrap-docs-readme.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/assets\/img\/bootstrap-docs-readme.png",
-      "initialSize" : 30612,
-      "fileType" : 8192
-    },
     "\/assets\/bootstrap\/docs\/components.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2227,6 +2216,17 @@
       "inputAbbreviatedPath" : "\/assets\/bootstrap\/docs\/components.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/assets\/bootstrap\/js\/bootstrap-scrollspy.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/bootstrap\/js\/bootstrap-scrollspy.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/assets\/bootstrap\/js\/bootstrap-scrollspy-ck.js",
+      "fileType" : 64
     },
     "\/assets\/bootstrap\/docs\/build\/node_modules\/hogan.js\/test\/spec.js" : {
       "ignoreWasSetByUser" : 0,
@@ -2503,7 +2503,7 @@
   },
   "projectAttributes" : {
     "bourbonEnabled" : 0,
-    "displayValue" : "fleursdelys",
+    "displayValue" : "fleurdelys",
     "displayValueWasSetByUser" : 0,
     "compassEnabled" : 0
   }
