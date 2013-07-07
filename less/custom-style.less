@@ -21,15 +21,25 @@
 // Jumbotron
 // --------------------
  .jumbotron {
-  margin-top: 10px;
+  margin: 0 -20px 1.5em -20px;
+  
+  color: @white;
+  background-color: @linkColor;
+  border-bottom: 1px solid @gray;
+  
+  div {
+    .container;
+  }
+
   // on desktop
   @media (min-width: 768px) {
-      
-      .hero-unit;
+      padding-top: 2em;
+      padding-bottom: 2em;
   }
   // on mobile
   @media (max-width: 767px) {
-    .well;
+    padding-top: 1em;
+    padding-bottom: 1em;
   }
 }
 
