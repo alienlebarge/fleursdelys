@@ -12,7 +12,8 @@
       "geometry": {"type": "Point", "coordinates": [6.531984, 46.720695]},
       "properties": {
         "marker-size": "medium",
-        "marker-symbol": "rail"
+        "marker-symbol": "rail",
+        "coucou":"hello"
         }
       }
      ]
