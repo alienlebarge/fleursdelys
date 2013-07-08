@@ -4,7 +4,7 @@
       "geometry": {"type": "Point", "coordinates": [6.526308, 46.717722]},
       "properties": {
         "marker-size": "medium",
-        "marker-symbol": "star"
+        "marker-symbol": "building"
       }
       }
      ]
