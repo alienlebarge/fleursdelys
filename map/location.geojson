@@ -3,9 +3,8 @@
     { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [6.526308, 46.717722]},
       "properties": {
-        "prop0": "value0",
         "marker-size": "medium",
-        "marker-symbol": "building"
+        "marker-symbol": "Building"
       }
       },
     { "type": "Feature",
