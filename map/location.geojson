@@ -34,6 +34,14 @@
         }
       },
       { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [6.530278, 46.724592]},
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "cinema",
+        "Description":"Cinema Urba"
+        }
+      },
+      { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [6.532617, 46.743296]},
       "properties": {
         "marker-size": "medium",
