@@ -3,9 +3,10 @@
     { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [6.526308, 46.717722]},
       "properties": {
-        "marker-size": "medium",
+        "marker-size": "large",
         "marker-color": "#00FF00",
-        "marker-symbol": "star"
+        "marker-symbol": "star",
+        "Description": "Appartement"
         }
       },
       { "type": "Feature",
@@ -13,7 +14,7 @@
       "properties": {
         "marker-size": "medium",
         "marker-symbol": "rail",
-        "coucou":"hello"
+        "Description":"Gare de St-Eloi"
         }
       }
      ]
