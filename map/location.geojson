@@ -37,14 +37,14 @@
       "geometry": {"type": "Point", "coordinates": [6.532617, 46.743296]},
       "properties": {
         "marker-size": "medium",
-        "Description":"Entrée d'autoroute Orbe"
+        "Description":"Entree d autoroute Orbe"
         }
       },
       { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [6.579008, 46.706553]},
       "properties": {
         "marker-size": "medium",
-        "Description":"Entrée d'autoroute Chavornay"
+        "Description":"Entree d autoroute Chavornay"
         }
       }
      ]
