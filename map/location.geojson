@@ -1,0 +1,51 @@
+{ "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [6.526308, 46.717722]},
+      "properties": {
+        "marker-size": "large",
+        "marker-color": "#00FF00",
+        "marker-symbol": "star",
+        "Description": "Appartement"
+        }
+      },
+      { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [6.531984, 46.720695]},
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "rail",
+        "Description":"Gare de St-Eloi"
+        }
+      },
+      { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [6.531876, 46.724159]},
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "town-hall",
+        "Description":"Centre ville et commerces"
+        }
+      },
+      { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [6.528604, 46.717047]},
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "Description":"Arret de bus"
+        }
+      },
+      { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [6.532617, 46.743296]},
+      "properties": {
+        "marker-size": "medium",
+        "Description":"Entree d autoroute Orbe"
+        }
+      },
+      { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [6.579008, 46.706553]},
+      "properties": {
+        "marker-size": "medium",
+        "Description":"Entree d autoroute Chavornay"
+        }
+      }
+     ]
+   }
