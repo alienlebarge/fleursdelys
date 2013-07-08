@@ -24,6 +24,14 @@
         "marker-symbol": "town-hall",
         "Description":"Centre ville et commerces"
         }
+      },
+      { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [6.528604, 46.717047]},
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "bus",
+        "Description":"Arret de bus"
+        }
       }
      ]
    }
