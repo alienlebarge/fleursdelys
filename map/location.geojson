@@ -42,6 +42,14 @@
         }
       },
       { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [6.532187, 46.734990]},
+      "properties": {
+        "marker-size": "medium",
+        "marker-symbol": "swimming",
+        "Description":"Piscine"
+        }
+      },
+      { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [6.532617, 46.743296]},
       "properties": {
         "marker-size": "medium",
