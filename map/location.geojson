@@ -14,7 +14,8 @@
       "properties": {
         "marker-size": "medium",
         "marker-symbol": "rail",
-        "Description":"Gare de St-Eloi"
+        "Description":"Gare de St-Eloi",
+        "Temps": "5min a pied"
         }
       },
       { "type": "Feature",
@@ -30,7 +31,8 @@
       "properties": {
         "marker-size": "medium",
         "marker-symbol": "bus",
-        "Description":"Arret de bus"
+        "Description":"Arret de bus",
+        "Temps": "1min a pied"
         }
       },
       { "type": "Feature",
@@ -53,14 +55,16 @@
       "geometry": {"type": "Point", "coordinates": [6.532617, 46.743296]},
       "properties": {
         "marker-size": "medium",
-        "Description":"Entree d autoroute Orbe"
+        "Description":"Entree d autoroute Orbe",
+        "Temps": "3min en voiture"
         }
       },
       { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [6.579008, 46.706553]},
       "properties": {
         "marker-size": "medium",
-        "Description":"Entree d autoroute Chavornay"
+        "Description":"Entree d autoroute Chavornay",
+        "Temps": "5min en voiture"
         }
       }
      ]
