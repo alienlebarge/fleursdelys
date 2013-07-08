@@ -15,13 +15,14 @@
         "marker-size": "medium",
         "marker-symbol": "rail",
         "Description":"Gare de St-Eloi"
-        },
+        }
+      },
       { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [6.531876, 46.724159]},
       "properties": {
         "marker-size": "medium",
         "marker-symbol": "town-hall",
-        "Description":"Centre ville"
+        "Description":"Centre ville et commerces"
         }
       }
      ]
