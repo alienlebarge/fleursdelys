@@ -1,15 +1,6 @@
 { "type": "FeatureCollection",
   "features": [
     { "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [6.526308, 46.717722]},
-      "properties": {
-        "marker-size": "large",
-        "marker-color": "#00FF00",
-        "marker-symbol": "star",
-        "Description": "Appartement"
-        }
-      },
-      { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [6.531984, 46.720695]},
       "properties": {
         "marker-size": "medium",
@@ -18,7 +9,7 @@
         "Temps": "5min a pied"
         }
       },
-      { "type": "Feature",
+    { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [6.531876, 46.724159]},
       "properties": {
         "marker-size": "medium",
@@ -26,7 +17,7 @@
         "Description":"Centre ville et commerces"
         }
       },
-      { "type": "Feature",
+    { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [6.528604, 46.717047]},
       "properties": {
         "marker-size": "medium",
@@ -35,7 +26,7 @@
         "Temps": "1min a pied"
         }
       },
-      { "type": "Feature",
+    { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [6.530278, 46.724592]},
       "properties": {
         "marker-size": "medium",
@@ -43,7 +34,7 @@
         "Description":"Cinema Urba"
         }
       },
-      { "type": "Feature",
+    { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [6.532187, 46.734990]},
       "properties": {
         "marker-size": "medium",
@@ -51,7 +42,7 @@
         "Description":"Piscine"
         }
       },
-      { "type": "Feature",
+    { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [6.532617, 46.743296]},
       "properties": {
         "marker-size": "medium",
@@ -59,12 +50,21 @@
         "Temps": "3min en voiture"
         }
       },
-      { "type": "Feature",
+    { "type": "Feature",
       "geometry": {"type": "Point", "coordinates": [6.579008, 46.706553]},
       "properties": {
         "marker-size": "medium",
         "Description":"Entree d autoroute Chavornay",
         "Temps": "5min en voiture"
+        }
+      },
+    { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [6.526308, 46.717722]},
+      "properties": {
+        "marker-size": "large",
+        "marker-color": "#00FF00",
+        "marker-symbol": "star",
+        "Description": "Appartement"
         }
       }
      ]
