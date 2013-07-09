@@ -63,13 +63,18 @@
 
 // Links interaction depending
 
-a[href ^="mailto:"] {
+a[href ^="mailto:"],
+a[href ^="tel:"]
+ {
   @media (max-width: 767px) {
     .btn;
+    .btn-large;
     .btn-primary;
+    .btn-block;
   }
 }
 
+// address style
 address {
   .well;
 }

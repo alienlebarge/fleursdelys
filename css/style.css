@@ -6360,7 +6360,8 @@ a.badge:focus {
   }
 }
 @media (max-width: 767px) {
-  a[href^="mailto:"] {
+  a[href^="mailto:"],
+  a[href^="tel:"] {
     display: inline-block;
     *display: inline;
     /* IE7 inline-block hack */
@@ -6394,6 +6395,11 @@ a.badge:focus {
     -webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,.2), 0 1px 2px rgba(0,0,0,.05);
     -moz-box-shadow: inset 0 1px 0 rgba(255,255,255,.2), 0 1px 2px rgba(0,0,0,.05);
     box-shadow: inset 0 1px 0 rgba(255,255,255,.2), 0 1px 2px rgba(0,0,0,.05);
+    padding: 11px 19px;
+    font-size: 17.5px;
+    -webkit-border-radius: 6px;
+    -moz-border-radius: 6px;
+    border-radius: 6px;
     color: #ffffff;
     text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
     background-color: #006dcc;
@@ -6410,26 +6416,44 @@ a.badge:focus {
     /* Darken IE7 buttons by default so they stand out more given they won't have borders */
   
     filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
+    display: block;
+    width: 100%;
+    padding-left: 0;
+    padding-right: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
   }
   a[href^="mailto:"]:hover,
+  a[href^="tel:"]:hover,
   a[href^="mailto:"]:focus,
+  a[href^="tel:"]:focus,
   a[href^="mailto:"]:active,
+  a[href^="tel:"]:active,
   a[href^="mailto:"].active,
+  a[href^="tel:"].active,
   a[href^="mailto:"].disabled,
-  a[href^="mailto:"][disabled] {
+  a[href^="tel:"].disabled,
+  a[href^="mailto:"][disabled],
+  a[href^="tel:"][disabled] {
     color: #333333;
     background-color: #e6e6e6;
     *background-color: #d9d9d9;
   }
   a[href^="mailto:"]:active,
-  a[href^="mailto:"].active {
+  a[href^="tel:"]:active,
+  a[href^="mailto:"].active,
+  a[href^="tel:"].active {
     background-color: #cccccc \9;
   }
-  a[href^="mailto:"]:first-child {
+  a[href^="mailto:"]:first-child,
+  a[href^="tel:"]:first-child {
     *margin-left: 0;
   }
   a[href^="mailto:"]:hover,
-  a[href^="mailto:"]:focus {
+  a[href^="tel:"]:hover,
+  a[href^="mailto:"]:focus,
+  a[href^="tel:"]:focus {
     color: #333333;
     text-decoration: none;
     background-position: 0 -15px;
@@ -6438,13 +6462,16 @@ a.badge:focus {
     -o-transition: background-position 0.1s linear;
     transition: background-position 0.1s linear;
   }
-  a[href^="mailto:"]:focus {
+  a[href^="mailto:"]:focus,
+  a[href^="tel:"]:focus {
     outline: thin dotted #333;
     outline: 5px auto -webkit-focus-ring-color;
     outline-offset: -2px;
   }
   a[href^="mailto:"].active,
-  a[href^="mailto:"]:active {
+  a[href^="tel:"].active,
+  a[href^="mailto:"]:active,
+  a[href^="tel:"]:active {
     background-image: none;
     outline: 0;
     -webkit-box-shadow: inset 0 2px 4px rgba(0,0,0,.15), 0 1px 2px rgba(0,0,0,.05);
@@ -6452,7 +6479,9 @@ a.badge:focus {
     box-shadow: inset 0 2px 4px rgba(0,0,0,.15), 0 1px 2px rgba(0,0,0,.05);
   }
   a[href^="mailto:"].disabled,
-  a[href^="mailto:"][disabled] {
+  a[href^="tel:"].disabled,
+  a[href^="mailto:"][disabled],
+  a[href^="tel:"][disabled] {
     cursor: default;
     background-image: none;
     opacity: 0.65;
@@ -6462,25 +6491,36 @@ a.badge:focus {
     box-shadow: none;
   }
   a[href^="mailto:"] .label,
-  a[href^="mailto:"] .badge {
+  a[href^="tel:"] .label,
+  a[href^="mailto:"] .badge,
+  a[href^="tel:"] .badge {
     position: relative;
     top: -1px;
   }
   a[href^="mailto:"]:hover,
+  a[href^="tel:"]:hover,
   a[href^="mailto:"]:focus,
+  a[href^="tel:"]:focus,
   a[href^="mailto:"]:active,
+  a[href^="tel:"]:active,
   a[href^="mailto:"].active,
+  a[href^="tel:"].active,
   a[href^="mailto:"].disabled,
-  a[href^="mailto:"][disabled] {
+  a[href^="tel:"].disabled,
+  a[href^="mailto:"][disabled],
+  a[href^="tel:"][disabled] {
     color: #ffffff;
     background-color: #0044cc;
     *background-color: #003bb3;
   }
   a[href^="mailto:"]:active,
-  a[href^="mailto:"].active {
+  a[href^="tel:"]:active,
+  a[href^="mailto:"].active,
+  a[href^="tel:"].active {
     background-color: #003399 \9;
   }
-  a[href^="mailto:"] .caret {
+  a[href^="mailto:"] .caret,
+  a[href^="tel:"] .caret {
     border-top-color: #ffffff;
     border-bottom-color: #ffffff;
   }
