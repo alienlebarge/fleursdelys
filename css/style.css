@@ -6307,11 +6307,24 @@ a.badge:focus {
 .small {
   font-size: 10.5px;
 }
+@media (max-width: 767px) {
+  .no-body-padding-on-mobile {
+    margin-left: -20px;
+    margin-right: -20px;
+  }
+}
 .jumbotron {
-  margin: 0 -20px 1.5em -20px;
+  margin-top: 0;
+  margin-bottom: 1.5em;
   color: #ffffff;
   background-color: #0088cc;
   border-bottom: 1px solid #555555;
+}
+@media (max-width: 767px) {
+  .jumbotron {
+    margin-left: -20px;
+    margin-right: -20px;
+  }
 }
 .jumbotron div {
   width: 940px;
@@ -6495,4 +6508,10 @@ footer {
   margin-top: 50px;
   border-top: 1px solid #999999;
   background-color: #eeeeee;
+}
+@media (max-width: 767px) {
+  footer {
+    margin-left: -20px;
+    margin-right: -20px;
+  }
 }

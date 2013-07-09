@@ -14,6 +14,13 @@
 // --------------------
 .small { font-size: @fontSizeMini; }
 
+.no-body-padding-on-mobile {
+  @media (max-width: 767px) {
+    margin-left: -20px;
+    margin-right: -20px;
+  }
+}
+
 
 // STYLE
 // --------------------
@@ -21,7 +28,10 @@
 // Jumbotron
 // --------------------
  .jumbotron {
-  margin: 0 -20px 1.5em -20px;
+  
+  margin-top: 0;
+  margin-bottom: 1.5em;
+  .no-body-padding-on-mobile;
   
   color: @white;
   background-color: @linkColor;
@@ -72,4 +82,6 @@ footer {
   margin-top: 50px;
   border-top: 1px solid @grayLight;
   background-color: @grayLighter;
+  
+  .no-body-padding-on-mobile;
 }
