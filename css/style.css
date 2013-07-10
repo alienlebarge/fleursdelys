@@ -6542,6 +6542,9 @@ address blockquote {
   border-color: #ddd;
   border-color: rgba(0, 0, 0, 0.15);
 }
+.carousel-inner img {
+  width: 100%;
+}
 footer {
   padding-top: 50px;
   padding-bottom: 50px;
