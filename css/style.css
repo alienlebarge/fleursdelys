@@ -6298,7 +6298,7 @@ a.badge:focus {
     padding-right: 10px;
   }
 }
-@media (min-width: 980px) {
+@media (min-width: 979px + 1) {
   .nav-collapse.collapse {
     height: auto !important;
     overflow: visible !important;
@@ -6385,6 +6385,8 @@ a.badge:focus {
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffe6e6e6', GradientType=0);
     border-color: #e6e6e6 #e6e6e6 #bfbfbf;
     *background-color: #e6e6e6;
+    /* Darken IE7 buttons by default so they stand out more given they won't have borders */
+  
     border: 1px solid #cccccc;
     *border: 0;
     border-bottom-color: #b3b3b3;
@@ -6541,6 +6543,9 @@ address {
 address blockquote {
   border-color: #ddd;
   border-color: rgba(0, 0, 0, 0.15);
+}
+.thumbnails img {
+  width: 100%;
 }
 footer {
   padding-top: 50px;
