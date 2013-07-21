@@ -15,7 +15,7 @@
         return $(this).find("." + className).each(function() {
             var $this = $(this);
             var s = $this.text().replace(" [at] ", "&#64;");
-            $this.html("<a href=\"mailto:" + s + "\">" + s + "</a>");
+            $this.html("<a class=\"btn-block-mobile\" href=\"mailto:" + s + "\">" + s + "</a>");
         });
     };
 })(jQuery);

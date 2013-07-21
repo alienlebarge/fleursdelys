@@ -6361,111 +6361,6 @@ a.badge:focus {
 }
 @media (max-width: 767px) {
   .btn-block-mobile {
-    display: block;
-    width: 100%;
-    padding-left: 0;
-    padding-right: 0;
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    display: inline-block;
-    *display: inline;
-    /* IE7 inline-block hack */
-  
-    *zoom: 1;
-    padding: 4px 12px;
-    margin-bottom: 0;
-    font-size: 14px;
-    line-height: 20px;
-    text-align: center;
-    vertical-align: middle;
-    cursor: pointer;
-    color: #333333;
-    text-shadow: 0 1px 1px rgba(255, 255, 255, 0.75);
-    background-color: #f5f5f5;
-    background-image: -moz-linear-gradient(top, #ffffff, #e6e6e6);
-    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#e6e6e6));
-    background-image: -webkit-linear-gradient(top, #ffffff, #e6e6e6);
-    background-image: -o-linear-gradient(top, #ffffff, #e6e6e6);
-    background-image: linear-gradient(to bottom, #ffffff, #e6e6e6);
-    background-repeat: repeat-x;
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff', endColorstr='#ffe6e6e6', GradientType=0);
-    border-color: #e6e6e6 #e6e6e6 #bfbfbf;
-    border-color: rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.1) rgba(0, 0, 0, 0.25);
-    *background-color: #e6e6e6;
-    /* Darken IE7 buttons by default so they stand out more given they won't have borders */
-  
-    filter: progid:DXImageTransform.Microsoft.gradient(enabled = false);
-    border: 1px solid #cccccc;
-    *border: 0;
-    border-bottom-color: #b3b3b3;
-    -webkit-border-radius: 4px;
-    -moz-border-radius: 4px;
-    border-radius: 4px;
-    *margin-left: .3em;
-    -webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,.2), 0 1px 2px rgba(0,0,0,.05);
-    -moz-box-shadow: inset 0 1px 0 rgba(255,255,255,.2), 0 1px 2px rgba(0,0,0,.05);
-    box-shadow: inset 0 1px 0 rgba(255,255,255,.2), 0 1px 2px rgba(0,0,0,.05);
-  }
-  .btn-block-mobile:hover,
-  .btn-block-mobile:focus,
-  .btn-block-mobile:active,
-  .btn-block-mobile.active,
-  .btn-block-mobile.disabled,
-  .btn-block-mobile[disabled] {
-    color: #333333;
-    background-color: #e6e6e6;
-    *background-color: #d9d9d9;
-  }
-  .btn-block-mobile:active,
-  .btn-block-mobile.active {
-    background-color: #cccccc \9;
-  }
-  .btn-block-mobile:first-child {
-    *margin-left: 0;
-  }
-  .btn-block-mobile:hover,
-  .btn-block-mobile:focus {
-    color: #333333;
-    text-decoration: none;
-    background-position: 0 -15px;
-    -webkit-transition: background-position 0.1s linear;
-    -moz-transition: background-position 0.1s linear;
-    -o-transition: background-position 0.1s linear;
-    transition: background-position 0.1s linear;
-  }
-  .btn-block-mobile:focus {
-    outline: thin dotted #333;
-    outline: 5px auto -webkit-focus-ring-color;
-    outline-offset: -2px;
-  }
-  .btn-block-mobile.active,
-  .btn-block-mobile:active {
-    background-image: none;
-    outline: 0;
-    -webkit-box-shadow: inset 0 2px 4px rgba(0,0,0,.15), 0 1px 2px rgba(0,0,0,.05);
-    -moz-box-shadow: inset 0 2px 4px rgba(0,0,0,.15), 0 1px 2px rgba(0,0,0,.05);
-    box-shadow: inset 0 2px 4px rgba(0,0,0,.15), 0 1px 2px rgba(0,0,0,.05);
-  }
-  .btn-block-mobile.disabled,
-  .btn-block-mobile[disabled] {
-    cursor: default;
-    background-image: none;
-    opacity: 0.65;
-    filter: alpha(opacity=65);
-    -webkit-box-shadow: none;
-    -moz-box-shadow: none;
-    box-shadow: none;
-  }
-  .btn-block-mobile .label,
-  .btn-block-mobile .badge {
-    position: relative;
-    top: -1px;
-  }
-}
-@media (max-width: 767px) {
-  a[href^="mailto:"],
-  a[href^="tel:"] {
     display: inline-block;
     *display: inline;
     /* IE7 inline-block hack */
@@ -6530,36 +6425,25 @@ a.badge:focus {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
   }
-  a[href^="mailto:"]:hover,
-  a[href^="tel:"]:hover,
-  a[href^="mailto:"]:focus,
-  a[href^="tel:"]:focus,
-  a[href^="mailto:"]:active,
-  a[href^="tel:"]:active,
-  a[href^="mailto:"].active,
-  a[href^="tel:"].active,
-  a[href^="mailto:"].disabled,
-  a[href^="tel:"].disabled,
-  a[href^="mailto:"][disabled],
-  a[href^="tel:"][disabled] {
+  .btn-block-mobile:hover,
+  .btn-block-mobile:focus,
+  .btn-block-mobile:active,
+  .btn-block-mobile.active,
+  .btn-block-mobile.disabled,
+  .btn-block-mobile[disabled] {
     color: #333333;
     background-color: #e6e6e6;
     *background-color: #d9d9d9;
   }
-  a[href^="mailto:"]:active,
-  a[href^="tel:"]:active,
-  a[href^="mailto:"].active,
-  a[href^="tel:"].active {
+  .btn-block-mobile:active,
+  .btn-block-mobile.active {
     background-color: #cccccc \9;
   }
-  a[href^="mailto:"]:first-child,
-  a[href^="tel:"]:first-child {
+  .btn-block-mobile:first-child {
     *margin-left: 0;
   }
-  a[href^="mailto:"]:hover,
-  a[href^="tel:"]:hover,
-  a[href^="mailto:"]:focus,
-  a[href^="tel:"]:focus {
+  .btn-block-mobile:hover,
+  .btn-block-mobile:focus {
     color: #333333;
     text-decoration: none;
     background-position: 0 -15px;
@@ -6568,26 +6452,21 @@ a.badge:focus {
     -o-transition: background-position 0.1s linear;
     transition: background-position 0.1s linear;
   }
-  a[href^="mailto:"]:focus,
-  a[href^="tel:"]:focus {
+  .btn-block-mobile:focus {
     outline: thin dotted #333;
     outline: 5px auto -webkit-focus-ring-color;
     outline-offset: -2px;
   }
-  a[href^="mailto:"].active,
-  a[href^="tel:"].active,
-  a[href^="mailto:"]:active,
-  a[href^="tel:"]:active {
+  .btn-block-mobile.active,
+  .btn-block-mobile:active {
     background-image: none;
     outline: 0;
     -webkit-box-shadow: inset 0 2px 4px rgba(0,0,0,.15), 0 1px 2px rgba(0,0,0,.05);
     -moz-box-shadow: inset 0 2px 4px rgba(0,0,0,.15), 0 1px 2px rgba(0,0,0,.05);
     box-shadow: inset 0 2px 4px rgba(0,0,0,.15), 0 1px 2px rgba(0,0,0,.05);
   }
-  a[href^="mailto:"].disabled,
-  a[href^="tel:"].disabled,
-  a[href^="mailto:"][disabled],
-  a[href^="tel:"][disabled] {
+  .btn-block-mobile.disabled,
+  .btn-block-mobile[disabled] {
     cursor: default;
     background-image: none;
     opacity: 0.65;
@@ -6596,37 +6475,26 @@ a.badge:focus {
     -moz-box-shadow: none;
     box-shadow: none;
   }
-  a[href^="mailto:"] .label,
-  a[href^="tel:"] .label,
-  a[href^="mailto:"] .badge,
-  a[href^="tel:"] .badge {
+  .btn-block-mobile .label,
+  .btn-block-mobile .badge {
     position: relative;
     top: -1px;
   }
-  a[href^="mailto:"]:hover,
-  a[href^="tel:"]:hover,
-  a[href^="mailto:"]:focus,
-  a[href^="tel:"]:focus,
-  a[href^="mailto:"]:active,
-  a[href^="tel:"]:active,
-  a[href^="mailto:"].active,
-  a[href^="tel:"].active,
-  a[href^="mailto:"].disabled,
-  a[href^="tel:"].disabled,
-  a[href^="mailto:"][disabled],
-  a[href^="tel:"][disabled] {
+  .btn-block-mobile:hover,
+  .btn-block-mobile:focus,
+  .btn-block-mobile:active,
+  .btn-block-mobile.active,
+  .btn-block-mobile.disabled,
+  .btn-block-mobile[disabled] {
     color: #ffffff;
     background-color: #0044cc;
     *background-color: #003bb3;
   }
-  a[href^="mailto:"]:active,
-  a[href^="tel:"]:active,
-  a[href^="mailto:"].active,
-  a[href^="tel:"].active {
+  .btn-block-mobile:active,
+  .btn-block-mobile.active {
     background-color: #003399 \9;
   }
-  a[href^="mailto:"] .caret,
-  a[href^="tel:"] .caret {
+  .btn-block-mobile .caret {
     border-top-color: #ffffff;
     border-bottom-color: #ffffff;
   }
