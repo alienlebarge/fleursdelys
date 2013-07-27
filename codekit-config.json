@@ -508,6 +508,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/kit\/_footer.kit" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/kit\/_footer.kit",
+      "outputAbbreviatedPath" : "\/_footer.html",
+      "fileType" : 65536
+    },
     "\/assets\/bootstrap\/less\/scaffolding.less" : {
       "ieCompatibility" : 1,
       "inputAbbreviatedPath" : "\/assets\/bootstrap\/less\/scaffolding.less",
@@ -524,15 +533,6 @@
       "outputStyle" : 0,
       "fileType" : 1,
       "debugStyle" : 0
-    },
-    "\/kit\/_footer.kit" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/kit\/_footer.kit",
-      "outputAbbreviatedPath" : "\/_footer.html",
-      "fileType" : 65536
     },
     "\/assets\/bootstrap\/less\/responsive-utilities.less" : {
       "ieCompatibility" : 1,
@@ -659,14 +659,22 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/assets\/bootstrap\/_includes\/header.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
+    "\/assets\/bootstrap\/less\/modals.less" : {
+      "ieCompatibility" : 1,
+      "inputAbbreviatedPath" : "\/assets\/bootstrap\/less\/modals.less",
+      "outputAbbreviatedPath" : "\/assets\/bootstrap\/css\/modals.css",
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/bootstrap\/_includes\/header.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "strictUnits" : 0,
+      "relativeURLS" : 0,
+      "ignore" : 1,
+      "strictImports" : 0,
+      "ignoreWasSetByUser" : 0,
+      "shouldRunBless" : 0,
+      "hidden" : 0,
+      "strictMath" : 0,
+      "outputStyle" : 0,
+      "fileType" : 1,
+      "debugStyle" : 0
     },
     "\/assets\/bootstrap\/less\/carousel.less" : {
       "ieCompatibility" : 1,
@@ -713,22 +721,14 @@
       "outputAbbreviatedPath" : "\/assets\/bootstrap\/js\/tests\/unit\/tab-ck.js",
       "fileType" : 64
     },
-    "\/assets\/bootstrap\/less\/modals.less" : {
-      "ieCompatibility" : 1,
-      "inputAbbreviatedPath" : "\/assets\/bootstrap\/less\/modals.less",
-      "outputAbbreviatedPath" : "\/assets\/bootstrap\/css\/modals.css",
-      "outputPathIsSetByUser" : 0,
-      "strictUnits" : 0,
-      "relativeURLS" : 0,
-      "ignore" : 1,
-      "strictImports" : 0,
+    "\/assets\/bootstrap\/_includes\/header.html" : {
       "ignoreWasSetByUser" : 0,
-      "shouldRunBless" : 0,
+      "ignore" : 0,
       "hidden" : 0,
-      "strictMath" : 0,
-      "outputStyle" : 0,
-      "fileType" : 1,
-      "debugStyle" : 0
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/bootstrap\/_includes\/header.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/assets\/bootstrap\/_layouts\/customize.html" : {
       "ignoreWasSetByUser" : 0,
@@ -875,15 +875,6 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
-    "\/assets\/bootstrap\/assets\/css\/docs.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/bootstrap\/assets\/css\/docs.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
     "\/assets\/bootstrap\/less\/navs.less" : {
       "ieCompatibility" : 1,
       "inputAbbreviatedPath" : "\/assets\/bootstrap\/less\/navs.less",
@@ -911,6 +902,15 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/assets\/bootstrap\/js\/tests\/unit\/collapse-ck.js",
       "fileType" : 64
+    },
+    "\/assets\/bootstrap\/assets\/css\/docs.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/bootstrap\/assets\/css\/docs.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/assets\/bootstrap\/js\/tooltip.js" : {
       "ignoreWasSetByUser" : 0,
