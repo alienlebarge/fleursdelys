@@ -875,6 +875,15 @@
       "fileType" : 1,
       "debugStyle" : 0
     },
+    "\/assets\/bootstrap\/assets\/css\/docs.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/bootstrap\/assets\/css\/docs.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
     "\/assets\/bootstrap\/less\/navs.less" : {
       "ieCompatibility" : 1,
       "inputAbbreviatedPath" : "\/assets\/bootstrap\/less\/navs.less",
@@ -902,15 +911,6 @@
       "syntaxCheckerStyle" : 1,
       "outputAbbreviatedPath" : "\/assets\/bootstrap\/js\/tests\/unit\/collapse-ck.js",
       "fileType" : 64
-    },
-    "\/assets\/bootstrap\/assets\/css\/docs.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/bootstrap\/assets\/css\/docs.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
     },
     "\/assets\/bootstrap\/js\/tooltip.js" : {
       "ignoreWasSetByUser" : 0,
