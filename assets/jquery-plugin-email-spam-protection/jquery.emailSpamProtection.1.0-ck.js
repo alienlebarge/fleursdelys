@@ -8,4 +8,4 @@
  * HTML: <span class="email">info [at] domain.com</span>
  * JavaScript: $("body").emailSpamProtection("email");
  *
- */(function(e){e.fn.emailSpamProtection=function(t){return e(this).find("."+t).each(function(){var t=e(this),n=t.text().replace(" [at] ","&#64;");t.html('<a class="btn-block-mobile" href="mailto:'+n+'">'+n+"</a>")})}})(jQuery);
+ */(function(e){e.fn.emailSpamProtection=function(t){return e(this).find("."+t).each(function(){var t=e(this),n=t.text().replace(" [at] ","&#64;");t.html('<a class="btn btn-primary" href="mailto:'+n+'">'+n+"</a>")})}})(jQuery);

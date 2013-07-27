@@ -218,17 +218,6 @@
       "outputAbbreviatedPath" : "\/assets\/bootstrap\/js\/carousel-ck.js",
       "fileType" : 64
     },
-    "\/assets\/bootstrap\/assets\/ico\/apple-touch-icon-114-precomposed.png" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/bootstrap\/assets\/ico\/apple-touch-icon-114-precomposed.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/bootstrap\/assets\/ico\/apple-touch-icon-114-precomposed.png",
-      "initialSize" : 4881,
-      "fileType" : 8192
-    },
     "\/less\/style.less" : {
       "ieCompatibility" : 1,
       "inputAbbreviatedPath" : "\/less\/style.less",
@@ -245,6 +234,17 @@
       "outputStyle" : 0,
       "fileType" : 1,
       "debugStyle" : 0
+    },
+    "\/assets\/bootstrap\/assets\/ico\/apple-touch-icon-114-precomposed.png" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/bootstrap\/assets\/ico\/apple-touch-icon-114-precomposed.png",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/bootstrap\/assets\/ico\/apple-touch-icon-114-precomposed.png",
+      "initialSize" : 4881,
+      "fileType" : 8192
     },
     "\/assets\/bootstrap\/js\/tests\/unit\/phantom.js" : {
       "ignoreWasSetByUser" : 0,
