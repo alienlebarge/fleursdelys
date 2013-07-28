@@ -8,7 +8,7 @@
     <!-- Bootstrap -->
     <link href="css/style.css" rel="stylesheet" media="all">
     <link href='http://fonts.googleapis.com/css?family=Lily+Script+One&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
-</head><body data-spy="scroll" data-target="#navbar">
+</head><body data-spy="scroll" data-offset="75" data-target="#navbar">
     <div id="navbar" class="navbar navbar-fixed-top">
         <!-- container -->
         <div class="container">
@@ -25,12 +25,10 @@
     <div class="nav-collapse collapse navbar-responsive-collapse">
         <ul class="nav navbar-nav">
             <li><a href="#situation">Situation</a></li>
-            <li><a href="#pieces">Pi&egrave;ces</a></li>
-            <li><a href="#comoditees">Comodit&eacute;es</a></li>
+            <li><a href="#descriptif">D&eacute;scriptif</a></li>
             <li><a href="#photos">Photos</a></li>
-            <li><a href="#">Loyer</a></li>
-            <li><a href="#">Disponibit&eacute;</a></li>
-            <li><a href="#">Contact</a></li>
+            <li><a href="#bail">Bail</a></li>
+            <li><a href="#contact">Contact</a></li>
             <li><a href="#">Partager</a></li>
             <li><a href="#">Documents</a></li>
         </ul>
@@ -47,7 +45,9 @@
     <div class="container">    
         <p class="lead">Nous cherchons quelqu'un pour reprendre notre appartement. Nous avons beaucoup aimé y habiter. Nous espérons que vous vous y sentirez bien.</p>
         
-        <h2 id="situation">Situation</h2>
+        <div class="page-header">
+            <h2 id="situation">Situation</h2>
+        </div>
         <div class="row">
             <div class="col-lg-6">
                 <p>L'appartement se trouve au <strong>Chemin des Fleurs de Lys 38 à Orbe</strong>. Dans un locatif récent. L'entrée comporte uniquement 5 appartements.</p>
@@ -70,10 +70,13 @@
                 <p><a href="http://maps.google.com/?q=Chemin des Fleurs de Lys 38, Orbe, Suisse" class="btn btn-default">Ouvrir dans Google Map</a></p>
             </div>
         </div>
-
+        
+        <div class="page-headerx">
+            <h2 id="descriptif">D&eacute;scriptif</h2>
+        </div>
         <div class="row">
             <div class="col-lg-6">
-                <h2 id="pieces">Les pièces</h2>
+                <h3>Les pièces</h3>
                 <p>Les pièces se composent comme suit:</p>
                 <ul>
                     <li>Une chambre parentale</li>
@@ -88,7 +91,7 @@
                 </ul>
             </div>
             <div class="col-lg-6">
-                <h2 id="comoditees">Comodit&eacute;es</h2>
+                <h3>Comodit&eacute;es</h3>
                 <dl class="dl-horizontal">
                     <dt>Nombre de pièce</dt>
                     <dd>4,5 <abbr title="pi&egrave;ces">pcs.</abbr></dd>
@@ -105,8 +108,10 @@
                 </dl>
             </div>
         </div>
-
-        <h2 id="photos">Photos</h2>
+        
+        <div class="page-header">
+            <h2 id="photos">Photos</h2>
+        </div>
 
         <div class="row">
             <div class="col-lg-12">
@@ -153,10 +158,13 @@
         </div>
 
         <p><a href="http://www.flickr.com/photos/alienlebarge/sets/72157634240469283/with/9097520079/" target="_new">Ouvrir l'album photo sur Flickr</a></p>
-
+        
+        <div class="page-header">
+            <h2 id="bail">Bail</h2>
+        </div>
         <div class="row">
             <div class="col-lg-6">
-                <h2>Loyer</h2>
+                <h3>Loyer</h3>
                 <dl class="dl-horizontal">
                     <dt>Loyer</dt>
                     <dd><abbr title="" tilte="Francs suisses">CHF</abbr> 1950</dd>
@@ -165,21 +173,37 @@
                 </dl>
             </div>
             <div class="col-lg-6">
-                <h2>Disponibilit&eacute;</h2>
+                <h3>Disponibilit&eacute;</h3>
                 <p>L'appartement est disponible à partir du <strong>1<sup>er</sup> septembre 2013</strong> ou &agrave; convenir.</p>
+            </div>
+        </div>
+        
+        <div class="page-header">
+                <h2 id="contact">Contact</h2>
+        </div>
+        <div class="row">
+            <div class="col-lg-6">
+                <p>Si vous avez des question ou d&eacute;sirez visiter l'appartement, nous sommes à votre disposition.</p>
+                <p>C'est volontiers que nous répondrons à vos questions.</p>
+            </div>
+
+            <div class="col-lg-6">
+                <address>
+                    <strong>C&eacute;line et C&eacute;dric Aellen</strong><br>
+                    Chemin des Fleurs de Lys 38<br>
+                    1350 Orbe<br>
+                    <a class="btn btn-primary btn-block" href="mailto:appartement@alienlebarge.ch">appartement@alienlebarge.ch</a><br>
+                    <a class="btn btn-primary btn-block" href="tel:+41244410025">T&eacute;l. domicile: 024 441 00 25</a><br>
+                    <a class="btn btn-primary btn-block" href="tel:+41244410025">T&eacute;l. C&eacute;dric: 079 693 01 83</a><br>
+                    <a class="btn btn-primary btn-block" href="tel:+41244410025">T&eacute;l. C&eacute;line: 076 437 71 63</a>
+                </address>
+                <p></p>
+                <p></p>
+
             </div>
         </div>
 
         <div class="row">
-            <div class="col-lg-6">
-                <h2>Contact</h2>
-                <p>Merci de nous contacter par courriel &agrave; l'adresse <span class="email">appartement [at] alienlebarge.ch</span> ou par t&eacute;l&eacute;phone au <a class="btn btn-primary" href="tel:+41244410025">024 441 00 25</a><span class="hidden-phone">.</span> C'est volontiers que nous répondrons à vos questions.</p>
-                <address>
-                    <strong>Famille Aellen</strong><br>
-                    Chemin des Fleurs de Lys 38<br>
-                    1350 Orbe
-                </address>
-            </div>
             <div class="col-lg-6">
                 <h2>Faites le savoir</h2>
                 <ul class="nav nav-pills nav-stacked">
@@ -193,7 +217,8 @@
                         <a href="mailto:?subject=Appartement à louer à Orbe&body=Appartement à louer à Orbe. Plus d'informations sur http://alienlebarge.github.io/fleursdelys/">Envoyer par courriel</a>
                     </li>
                 </ul>
-
+            </div>
+            <div class="col-lg-6">
                 <h2>Documents</h2>
                 <ul>
                     <li><a href="https://dl.dropboxusercontent.com/u/66042103/Affiche%20location%20appartement.pdf" title="T&eacute;l&eacute;charger l'affiche 1 en format PDF" target="_blank">Affiche 1</a></li>
