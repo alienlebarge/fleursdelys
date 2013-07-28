@@ -8,8 +8,16 @@ body {
   padding-top: 70px;
 }
 
-br + .btn {
-  margin: 0 0;
+@media (max-width: @screen-tablet) {
+  .vcard {
+    .tel,
+    .email {
+      .btn;
+      .btn-primary;
+      .btn-block;
+      margin-bottom: -1em;
+    }
+  }
 }
 
 /*
